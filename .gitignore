@@ -1,0 +1,9 @@
+# 测试报告
+reports/
+# Python缓存
+__pycache__/
+*.pyc
+# IDE配置
+.idea/
+# 虚拟环境
+venv/
